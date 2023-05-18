@@ -8,10 +8,6 @@ export const config: IConfig = {
     {
       icon: AiFillGithub,
       url: 'https://www.github.com/dewjohn'
-    },
-    {
-      icon: AiFillMail,
-      url: 'mailto:deweizhong@outlook.com'
     }
   ],
   navList: [
