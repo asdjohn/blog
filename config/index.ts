@@ -1,4 +1,4 @@
-import { AiFillGithub, AiFillMail } from 'react-icons/ai'; // import react icons
+import { AiFillGithub } from 'react-icons/ai';
 import avatarJpg from '@/public/avatar.jpg';
 
 export const config: IConfig = {
@@ -19,5 +19,19 @@ export const config: IConfig = {
       title: 'About',
       url: '/about'
     }
+  ],
+  emoji: [
+    '😜',
+    '🤤',
+    '🤪',
+    '😳',
+    '😍',
+    '❤️',
+    '🤭',
+    '🥰',
+    '😵‍💫',
+    '😇',
+    '😓',
+    '🤣'
   ]
 };
